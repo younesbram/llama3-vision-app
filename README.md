@@ -50,8 +50,8 @@ print(tokenizer.decode(model.answer_question(image, question, tokenizer), skip_s
 - **Pillow** - For handling image processing.
 - **Streamlit** - To create the interactive web interface.
 
-## Example Output
-![Example output](example_output.jpg)
+## Example
+![Example](eg.png)
 
 ## Authors
 - **@yeswondwerr** - Initial development and model integration.
